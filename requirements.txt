@@ -1,0 +1,13 @@
+asgiref==3.2.3
+certifi==2019.11.28
+chardet==3.0.4
+Django==3.0.1
+idna==2.8
+OpenOPC-Python3x==1.2.2
+Pyro4==4.77
+pytz==2019.3
+pywin32==227
+requests==2.22.0
+serpent==1.28
+sqlparse==0.3.0
+urllib3==1.25.7
