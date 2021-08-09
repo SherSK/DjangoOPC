@@ -6,7 +6,7 @@ idna==2.8
 OpenOPC-Python3x==1.2.2
 Pyro4==4.77
 pytz==2019.3
-pywin32==227
+pywin32==301
 requests==2.22.0
 serpent==1.28
 sqlparse==0.3.0
